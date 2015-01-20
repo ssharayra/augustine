@@ -6,17 +6,17 @@
 <body>
 
 <?php include_once('inc/menu.php'); ?>
-<p><img src="img/banniere.jpg"  alt=""></p>
-<br>
+  
 <div class="container">
-    <center>
+ <p><img src="img/banniere.jpg"  alt=""></p>
+ <br/>
+<div class="row">
     	<a href="http://www.vinci-melun.org"><img src="img/.jpg"></a>
     	<a href="http://www."><img src="img/.jpg"></a>
     	<a href="http://www.diderot.org"><img src="img/.jpg"></a>
-    </center>
 </div>
 <!-- Présentation de Augustine -->
-<div class="container">
+<div class="row">
     <div >
         <div class="page-header">
             <h2>Augustine</h2>

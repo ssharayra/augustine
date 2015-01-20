@@ -15,7 +15,7 @@ $users = array();
 
 <body style="background-color:black;">
 
-    <?php include_once('inc/menu.php'); ?>
+<?php include_once('inc/menu.php'); ?>
 
 <?php 
 
