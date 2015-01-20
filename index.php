@@ -6,7 +6,7 @@
 <body>
 
 <?php include_once('inc/menu.php'); ?>
-  
+
 <div class="container">
  <p><img src="img/banniere.jpg"  alt=""></p>
  <br/>
