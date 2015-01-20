@@ -1,7 +1,7 @@
 <?php include_once('inc/bdd_conf.php');
       include_once('inc/fonctions.php');
 ?>
-
+ 
 <?php include_once('inc/header.php'); ?> 
 <body>
 
