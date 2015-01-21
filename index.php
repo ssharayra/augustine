@@ -1,16 +1,14 @@
 <?php include_once('inc/bdd_conf.php');
       include_once('inc/fonctions.php');
 ?>
- 
 <?php include_once('inc/header.php'); ?> 
 <body>
 
 <?php include_once('inc/menu.php'); ?>
-
 <div class="container">
  <p><img src="img/banniere.jpg"  alt=""></p>
  <br/>
-<div class="row">
+ <div class="row">
     	<a href="http://www.vinci-melun.org"><img src="img/.jpg"></a>
     	<a href="http://www."><img src="img/.jpg"></a>
     	<a href="http://www.diderot.org"><img src="img/.jpg"></a>
