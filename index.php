@@ -6,12 +6,12 @@
 
 <?php include_once('inc/menu.php'); ?>
 <div class="container">
- <p><img src="img/banniere.jpg"  alt=""></p>
+ <center><p><img src="img/banniere.jpg"  alt=""></p></center>
  <br/>
  <div class="row">
-    	<a href="http://www.vinci-melun.org"><img src="img/logo-ldv.png"></a>
-    	<a href="http://www."><img src="img/educeco.png"></a>
-    	<a href="http://www.diderot.org"><img src="img/diderot.png"></a>
+    	<center><a href="http://www.vinci-melun.org"><img src="img/logo-ldv.png"></a>
+    	<a href="http://www.educeco.net/"><img src="img/educeco.png"></a>
+    	<a href="http://www.diderot.org"><img src="img/diderot.png"></a></center>
 </div>
 <!-- Présentation de Augustine -->
 <div class="row">
